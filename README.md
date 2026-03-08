@@ -22,13 +22,6 @@ Senior Backend Software Engineer | Java | Distributed systems
 
 ---
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunbhatnagar2&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunbhatnagar2&layout=compact)
-
----
-
 ## Reach me
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nipunbhatnagar2/)
 - Email: nipunbhatnagar2@gmail.com
