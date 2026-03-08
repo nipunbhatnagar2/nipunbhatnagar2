@@ -23,5 +23,5 @@ Senior Backend Software Engineer | Java | Distributed systems
 ---
 
 ## Reach me
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nipunbhatnagar2/)
+- LinkedIn: [Nipun Bhatnagar](https://www.linkedin.com/in/nipunbhatnagar2/)
 - Email: nipunbhatnagar2@gmail.com
